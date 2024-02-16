@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @danielpbj
+- 👀 I’m interested in development .NET and JS
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on MS Power Platform
+- 📫 How to reach me "Daniel Damaceno" in LinkedIn
